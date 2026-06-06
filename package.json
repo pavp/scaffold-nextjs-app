@@ -69,10 +69,10 @@
     "js-cookie": "^3.0.5",
     "next": "15.5.18",
     "next-intl": "4.3.4",
-    "react": "19.2.6",
+    "react": "19.2.7",
     "react-color": "^2.19.3",
-    "react-dom": "19.2.6",
-    "react-hook-form": "7.60.0",
+    "react-dom": "19.2.7",
+    "react-hook-form": "7.77.0",
     "zod": "^4.4.3",
     "zustand": "^5.0.13"
   },
@@ -94,7 +94,7 @@
     "@types/js-cookie": "^3.0.6",
     "@types/lodash": "4.17.24",
     "@types/node": "^25.7.0",
-    "@types/react": "19.2.14",
+    "@types/react": "19.2.17",
     "@types/react-color": "^3.0.13",
     "@types/react-dom": "19.2.3",
     "@typescript-eslint/parser": "8.59.3",
@@ -128,7 +128,7 @@
     "whatwg-fetch": "^3.6.20"
   },
   "resolutions": {
-    "@types/react": "19.2.14",
+    "@types/react": "19.2.17",
     "@types/react-dom": "19.2.3",
     "glob": "^13.0.0",
     "handlebars": "^4.7.9",
